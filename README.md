@@ -2,6 +2,12 @@
 
 A focused, production-quality music streaming web app built for discovering, collecting and playing tracks.
 
+---
+
+<img width="1904" height="849" alt="image" src="https://github.com/user-attachments/assets/18eb894c-89b6-404a-9e8d-1c4afe7c8162" />
+
+---
+
 ## Features
 
 - **Discovery** — browse trending songs, new releases, popular albums and artists.
