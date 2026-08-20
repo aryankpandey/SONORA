@@ -1,6 +1,6 @@
 # SONORA
 
-A focused, production-quality music streaming web app built for discovering, collecting and playing tracks.
+A modern music streaming web app for discovering, collecting, and playing tracks, with personalized libraries, playlists, and persistent playback.
 
 ---
 
